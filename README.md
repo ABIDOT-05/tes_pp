@@ -1,19 +1,27 @@
 # tes_pp
 ## project title : Gym membership Analysis
+---------------------------------------
 
 [Project overview](project-overview)
+
 [Data source](data-source)
+
 [Tools Used](tools-used)
+
 [Exploratory Data Analysis](exploratoty-data-analysis)
+
 [Data Analysis](data-analysis)
+
 [Data Visualization](data-visualization)
+
+[Story Telling](story-telling)
 
 #### Project overview
 ---------------------
 This file contains mockup data designed to simulate the typical membership database of a gym. It includes various fields such as 
 -Member ID
 - Name
-- -Age
+- Age
 - Gender
 -  Membership Type.
 
@@ -24,15 +32,15 @@ This file contains mockup data designed to simulate the typical membership datab
 
   ### Tools Used
 
-  - - Microsoft Excel for
+  -  Microsoft Excel for
 
-1.data handling and inspection
+- - Data handling and inspection
     
-2. dealing with duplicate values
+- - Dealing with duplicate values
 
-3.  deleting empty rows and misiing values
+- - Deleting empty rows and misiing values
 
-4.   Data cleaning and formatting
+- - Data cleaning and formatting
 
 - Github for portfolio
 
@@ -50,28 +58,19 @@ This file contains mockup data designed to simulate the typical membership datab
 
 ![image](https://github.com/user-attachments/assets/2eb6bd73-c75e-43ea-a6ea-632be023626f)
 
-``` Excel pivot table 
-Count of Age Group	Column Labels		
-Row Labels	Premium	Standard	Grand Total
-13-17	           69      	76	    145
-18-25	           110	    106  	 216
-26-35	           125      143    268
-36-45            130	    14     270
-45+	              59	    42	   101
-Grand Total	     493      507    1000.0
-```
+![image](https://github.com/user-attachments/assets/9b859f91-c7b3-47b0-a38d-7b5932b08639)
+
 
 ### Data Visualization
-![image](https://github.com/user-attachments/assets/dab34000-bf24-41a5-b198-26302b6dec74)
+![image](https://github.com/user-attachments/assets/7ee11fc4-149c-4384-a468-32891cf40f70)
 
 ![image](https://github.com/user-attachments/assets/1efc3556-6f98-4385-9ac2-4a8e0614f537)
 
-
-### Story Telling 
-
-
 ![Dashboard](https://github.com/user-attachments/assets/33abdf8c-0615-494b-9770-bd256bd379da)
 
+### Story Telling 
+-------------------------------------
+The  Dataset records a total of 1000 members. 503 females and 497 males ranging from diferrent ages. Maximum age  is 49, minimum age is 12. 50.30% of these member attend group lesson(s) out of which 77.9% of the members do not have a favorite group lesson. The most popular membership type(abonnement) is Standard. This popularity however differs in different age groups as shown in the first image above. The most populataed age group is 36-45 with a count of 270, following closely is 26-35 with a count of 268 and the least is 45+ containing 101 people.  Out of these 1000 gym members, 50.03% have personal trainers. Members of the Gym visit at least once a week and at most 5 times a week. Members who visit once a week, have the least average time and members who visit 4 times a week have the highest average time in the Gym.
 
 
   
