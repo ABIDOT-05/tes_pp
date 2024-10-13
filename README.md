@@ -2,19 +2,19 @@
 ## project title : Gym membership Analysis
 ---------------------------------------
 
-[Project overview](project-overview)
+[Project overview](#project-overview)
 
-[Data source](data-source)
+[Data source](#data-source)
 
-[Tools Used](tools-used)
+[Tools Used](#tools-used)
 
-[Exploratory Data Analysis](exploratoty-data-analysis)
+[Exploratory Data Analysis](#exploratoty-data-analysis)
 
-[Data Analysis](data-analysis)
+[Data Analysis](#data-analysis)
 
-[Data Visualization](data-visualization)
+[Data Visualization](#data-visualization)
 
-[Story Telling](story-telling)
+[Story Telling](#story-telling)
 
 #### Project overview
 ---------------------
