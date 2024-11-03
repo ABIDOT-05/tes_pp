@@ -70,7 +70,11 @@ This file contains mockup data designed to simulate the typical membership datab
 
 ### Story Telling 
 -------------------------------------
-The  Dataset records a total of 1000 members. 503 females and 497 males ranging from diferrent ages. Maximum age  is 49, minimum age is 12. 50.30% of these member attend group lesson(s) out of which 77.9% of the members do not have a favorite group lesson. The most popular membership type(abonnement) is Standard. This popularity however differs in different age groups as shown in the first image above. The most populataed age group is 36-45 with a count of 270, following closely is 26-35 with a count of 268 and the least is 45+ containing 101 people.  Out of these 1000 gym members, 50.03% have personal trainers. Members of the Gym visit at least once a week and at most 5 times a week. Members who visit once a week, have the least average time and members who visit 4 times a week have the highest average time in the Gym.
+The dataset comprises 1,000 gym members, with a gender distribution of 503 females and 497 males, spanning an age range from 12 to 49 years. The largest age group is 36-45 years with 270 members, followed by the 26-35 age group with 268 members; the smallest age group is 45+, consisting of 101 individuals.
+
+A total of 50.3% of members attend group lessons, yet 77.9% of these participants do not have a preferred lesson type. The most popular membership type, “Standard,” demonstrates varying popularity across age groups, as illustrated in the preceding chart.
+
+In terms of personalized services, 50.03% of members work with personal trainers. Members’ gym attendance varies from a minimum of once to a maximum of five visits per week. Those who attend once a week exhibit the lowest average gym time, while members attending four times a week record the highest average time spent in the gym.
 
 
   
