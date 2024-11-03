@@ -8,7 +8,7 @@
 
 [Tools Used](#tools-used)
 
-[Exploratory Data Analysis](#exploratoty-data-analysis)
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Data Analysis](#data-analysis)
 
